@@ -1,0 +1,3 @@
+Fabryka abstrakcyjna jest kreacyjnym wzorcem projektowym, który pozwala tworzyć rodziny spokrewnionych ze sobą obiektów bez określania ich konkretnych klas. Jest to fabryka fabryk, czyli tworzy fabryki innych obiektów.
+
+Stosuje sie wzorzec Fabryki w momencie gdy kod ma działać na produktach z różnych rodzin, ale jednocześnie zależeć ma on od konkretnych klas produktów. Plusem fabryki jest to że może być ona stworzona na wcześniejszym etapie tworzenia programu i później można ten program rozszerzać.
